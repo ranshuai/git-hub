@@ -10,5 +10,5 @@
 3.[ionic2](https://yanxiaodi.gitbooks.io/ionic2-guide/content/tutorial/%E5%88%9B%E5%BB%BA%E9%A1%B9%E7%9B%AE.html)
 4.[typescript](https://www.tslang.cn/docs/home.html)
 5.[angular4](https://angular.cn)
-
-1
+6.[angualr](http://blog.csdn.net/mingyueyixi/article/details/72904657)
+7.[ionic2官网](http://ionicframework.com/docs/intro/installation/)
